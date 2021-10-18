@@ -1,2 +1,2 @@
-# Dartmouth_ML_Class
-Dartmouth's Machine Learning Class 
+# ML_Class
+Machine Learning Class at my college
